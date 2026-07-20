@@ -249,9 +249,9 @@ This project is licensed under the MIT License. See LICENSE file for details.
 
 ## 👤 Author
 
-**Sumit Sartale**
+**sayeed ahmad
 
-GitHub: [@sumitsartale4952](https://github.com/sumitsartale4952)
+GitHub: [@sayeedahmad01](https://github.com/sayeedahmad01)
 
 ---
 
@@ -262,14 +262,4 @@ Contributions are welcome! Please:
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
----
-
-## 📞 Support
-
-For issues, questions, or suggestions, please open an issue on GitHub or contact the author.
-
----
-
-**Last Updated:** June 2026
+5. Open a Pull Reques
